@@ -1,5 +1,6 @@
 {
   "name": "Ajay-Portfolio",
+  "homepage": "https://Its-AjayRathnam.github.io/Ajay-Portfolio",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
